@@ -1,0 +1,267 @@
+<resources>
+    <string name="app_name">City Thai</string>
+    <string name="shop_id_ref">105</string>
+    <string name="title_home">Home</string>
+    <string name="title_order">Order</string>
+    <string name="title_review">Review</string>
+    <string name="title_more">More</string>
+
+    <!--<string name="Base_URL">https://www.ziamthai.com/api.php/v1/</string>-->
+    <!--<string name="Base_URL">https://test.ziamthai.com/api.php/v1/</string>-->
+    <string name="Base_URL">https://dev.ziamthai.com/api.php/v2/</string>
+
+    <string name="URL_shop">business_shop/data</string>
+    <!--Get theme-->
+    <string name="URL_theme">theme/index</string>
+
+    <string name="access_token">sd23g125sdf1gc10b3yhik58l4o4</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <!--Type fonts app-->
+    <string name="SukhumvitSet_Medium">fonts/SukhumvitSet-Medium.ttf</string>
+
+    <!--facebook_app_id ziamfoods_app-->
+    <!--<string name="facebook_app_id">157945068016081</string>-->
+    <!--facebook_app_id ziamfoods_app_shop-->
+    <!--<string name="facebook_app_id">315913542221442</string>-->
+    <string name="google_api_key">AIzaSyBQgppD9_5xd4Y4RUAHFcjG3ku5gbOLVXI</string>
+    <string name="facebook_app_id">862338467260346</string>
+    <string name="term_condition">ข้อตกลง และ เงื่อนไขของการใช้งาน แอพ ziamfoods</string>
+    <!--<string name="access_user_key">3d8ea1e78d4187a02f08112245cb26e3</string>-->
+
+    <!--server_client_id google ziamfoods_app-->
+    <!--<string name="server_client_id">228878799951-i1gm9arq1f6phmd348qj9stmpo98qgod.apps.googleusercontent.com</string>-->
+    <!--server_client_id google city thai-->
+    <string name="server_client_id">228878799951-i1gm9arq1f6phmd348qj9stmpo98qgod.apps.googleusercontent.com </string>
+
+    <string name="URL_froget_password">accounts/pwd_request</string>
+    <string name="URL_info">restaurant/finder</string>
+
+    <string name="URL_online_order">foods_order/save</string>
+
+    <!--show data review ziamfoods shop -->
+    <string name="URL_reviews">reviews/finder</string>
+
+    <string name="URL_register">accounts/signup</string>
+    <string name="URL_signin">accounts/login</string>
+
+    <!--detail user and update profile-->
+    <string name="URL_userprofile_update_info">accounts_update/info</string>
+    <string name="URL_userprofile_update_pwd">accounts_update/pwd</string>
+    <string name="URL_userprofile_update_photo">accounts_update/photo</string>
+
+    <string name="URL_write_reviews">reviews/writing_save</string>
+
+    <!--dropdown menu review ziamfoods shop -->
+    <string name="URL_menu_reviews">business_shop/recommend_item</string>
+    <string name="URL_reviews_show">reviews/show</string>
+    <string name="URL_menu_item_reviews">business_item/finder_combobox</string>
+
+    <!--upload image review ziamfoods shop -->
+    <string name="URL_reviews_upload_image">reviews/photo_upload</string>
+
+    <!--write review remove ziamfoods shop -->
+    <string name="URL_writereview_remove_image">reviews/photo_remove</string>
+
+    <!--catagory menu order ziamfoods shop -->
+    <string name="URL_order">business_item/finder_category</string>
+
+    <!--payment -->
+    <string name="URL_payment">payment/confirm</string>
+
+    <!-- language parameter value -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!--login facebook token-->
+    <string name="URL_facebook_login_token">fb_connect/do_login_v2</string>
+
+    <!--login google token-->
+    <string name="URL_google_login_token">gg_connect/do_login_v2</string>
+
+    <!--Timeline feed-->
+    <string name="URL_timeline_feed">timeline/feed</string>
+
+    <!--Blog detail-->
+    <string name="URL_blog_detail">blog/show</string>
+
+    <!--IDN Barcode-->
+    <string name="URL_idn_barcode">accounts/idn_barcode</string>
+
+    <!--Get point member-->
+    <string name="URL_get_point">reward/member_point</string>
+
+    <!--Get history member point-->
+    <string name="URL_history_point">reward/history_member</string>
+
+    <!--Get shop_menu list category-->
+    <string name="URL_category">shop_menu/list_category</string>
+    <string name="URL_shop_menu">shop_menu/list_menu</string>
+    <string name="URL_get_menu">shop_menu/get_menu_all_size</string>
+    <string name="URL_get_menu_by_size">/shop_menu/get_menu_by_size</string>
+    <string name="URL_confirm_order">shop_order/confirm</string>
+
+    <string name="menu">Menu</string>
+    <string name="setting">Setting</string>
+
+    <string name="home">Home</string>
+    <string name="review">Review</string>
+    <string name="post">Dokbua Post</string>
+    <string name="deal">Deal</string>
+    <string name="near_by">NearBy</string>
+    <string name="user_profile">User Profile</string>
+    <string name="video">Video</string>
+    <string name="photo">Photo</string>
+
+    <string name="recommend_shop">Recommend Shop</string>
+    <string name="new_shop">New Shop</string>
+
+    <!--button-->
+    <string name="save">Save</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="back">Back</string>
+    <string name="call">Call</string>
+    <string name="info">Info</string>
+    <string name="online_order">Order</string>
+
+    <string name="data_deficient">Enter your phone number and zipcode</string>
+
+    <!--review detail page-->
+    <string name="readmore">Readmore</string>
+    <string name="review_detail">Review Detail</string>
+    <string name="write_review">Write Review</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="score">Score</string>
+    <string name="reccomend_menu">Reccomend Menu</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="upload">Upload</string>
+    <string name="recommend_menu">Recommend Menu</string>
+    <string name="share_photos">Share Photos</string>
+    <string name="upload_image_review">Upload Image</string>
+
+    <!--Alert text other-->
+    <string name="user_profile_login_before">Please login user before view user profile</string>
+    <string name="write_review_login_before">Please login user before write review</string>
+    <string name="barcode_user_login_before">Please login user before use barcode point</string>
+    <string name="order_user_login_before">Please login user before use order</string>
+    <string name="shop_is_close">Shop is close, Please wait shop open!</string>
+    <string name="confirm">confirm</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <!--forget password-->
+    <string name="username_or_password_not_null">Username or password must be filled</string>
+
+    <!--register-->
+    <string name="firstname_must_be_filled">firstname must be filled</string>
+    <string name="lastname_must_be_filled">lastname must be filled</string>
+    <string name="email_must_be_filled">email must be filled</string>
+    <string name="password_or_confirmpassword_must_be_filled">password or confirmpassword must be filled</string>
+    <string name="password_and_confirmpassword_must_be_different">password and confirmpassword must be different</string>
+    <string name="Please_click_accept_and_condition_before_register">Please click accept and condition before register</string>
+
+    <!--signin-->
+    <string name="login">Log In</string>
+    <string name="signin">Sign in</string>
+    <string name="logout">Log Out</string>
+    <string name="username">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="new_user">New User</string>
+    <string name="register">Register</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="accept">Accept</string>
+    <string name="textnot_a_member_yet">Not a member yet ?</string>
+    <string name="textregister_here">Register here</string>
+    <string name="textforgot_you_password">Forgot Password or Forgot Account</string>
+    <string name="textclick_here">Click here</string>
+    <string name="term_and_conditions">Term And Conditions</string>
+    <string name="accept_term_and_conditions">Accept Term And Conditions</string>
+    <string name="click">Click</string>
+    <string name="username_password_length">Username or password length must be greater than one</string>
+    <string name="confirm_logout">Logout</string>
+    <string name="delete_order_logout">Order will have delete when you logout</string>
+
+    <!--main-->
+    <string name="status_connect">Status connect</string>
+    <string name="disconnection">Please connect internet!</string>
+    <string name="status_check">Status</string>
+    <string name="connect_server_timeout">Connect server timeout</string>
+
+    <!--Sum order-->
+    <string name="sumorder">Sum Order</string>
+    <string name="menu_add">Menu Add</string>
+    <string name="order_add">Order Now</string>
+    <string name="delivery_charge">Delivery Charge</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="tax">Tax</string>
+    <string name="total">Total</string>
+    <string name="grand_total">Grand total</string>
+    <string name="pick_up">Pick up</string>
+    <string name="delivery">Delivery</string>
+    <string name="instruction">Instruction</string>
+    <string name="order_success">Order Success</string>
+    <string name="order_fail">Order Fail</string>
+    <string name="confirm_delete_item">Confirm Delete Menu</string>
+    <string name="delete_menu_item">Do you want to delete menu items?</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="zipcode">Zipcode</string>
+    <string name="hours">Hours</string>
+    <string name="price">Price</string>
+    <string name="qty">QTY</string>
+    <string name="addition">Addition</string>
+    <string name="note">Note</string>
+    <string name="add_to_cart">Add to cart</string>
+
+    <!--Online Order-->
+    <string name="text_delete_order">delete order menu</string>
+    <string name="please_login_user">please login user before use</string>
+    <string name="shop_close">shop close</string>
+    <string name="text_null_order">No orders</string>
+    <string name="add_menu_complete">Add Menu Complete</string>
+    <string name="add_menu_error">Add Menu Error</string>
+
+    <!--User profile-->
+    <string name="upload_image_success">Upload image Success</string>
+    <string name="upload_image_fail">Upload image Fail</string>
+    <string name="edit_profile">Edit Profile</string>
+
+    <string name="title_activity_play_video_fullscreen">PlayVideoFullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!--Scan Barcode Point-->
+    <string name="get_point">Get Point</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="scanning">Scanning...</string>
+    <string name="barcode_user">Point User</string>
+
+    <!--Point history page-->
+    <string name="point_his_page">Point History Page</string>
+
+    <!--Write review page-->
+    <string name="title_null">Title must be filled</string>
+    <string name="description_null">Description must be filled</string>
+
+    <string name="time_line">TimeLine</string>
+    <string name="reward">Reward</string>
+
+    <string name="choose_items">Choose items</string>
+    <string name="dish_details">Dish Details</string>
+    <string name="cart_details">Cart Details</string>
+    <string name="proceed_to_checout">Proceed To Checkout</string>
+
+    <string name="invalid_data">Invalid data</string>
+
+
+</resources>
