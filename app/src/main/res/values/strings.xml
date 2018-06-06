@@ -231,6 +231,7 @@
     <string name="add_menu_complete">Add Menu Complete</string>
     <string name="add_menu_error">Add Menu Error</string>
 
+
     <!--User profile-->
     <string name="upload_image_success">Upload image Success</string>
     <string name="upload_image_fail">Upload image Fail</string>
